@@ -21,7 +21,7 @@
         10)khdiiffiefieh
         10)Apex has made changes
         11)fjofjbijfbi
-        12)Tushar change Updated in VS Branch
+        12) Updated in VS Branch
         13) Apex Changes in VS Branch
         14) Apex changes from github.com in VS Branch
     </div>
